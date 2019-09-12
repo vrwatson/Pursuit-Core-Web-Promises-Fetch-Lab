@@ -1,6 +1,6 @@
 # Pursuit-Core-Web-Promises-Fetch-Lab
 
-Use the [Official Joke API](https://github.com/15Dkatz/official_joke_api).  
+Use the [Official Joke API](https://github.com/15Dkatz/official_joke_api) and Fetch to build the site described below:
 
 
 # 1. Part one: MVP
