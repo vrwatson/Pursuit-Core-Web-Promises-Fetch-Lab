@@ -15,4 +15,4 @@ Add the following to get your MVP in place
 # 2. Part two: extra features
 
 - Have a select at the top for either `general`, `random`, or `programming` and only load jokes of that type
-- Keep track off all of the jokes the user has seen so far, and don't show them the same joke twice when they click a button for new jokes
+- Keep track of all of the jokes the user has seen so far, and don't show them the same joke twice when they click a button for new jokes
